@@ -4,6 +4,7 @@ sudo apt-get update -y
 sudo apt-get upgrade -y
 sudo apt-get autoremove -y
 sudo apt install wtype
+sudo apt-get install can-utils
 
 mkdir code 
 cd code
