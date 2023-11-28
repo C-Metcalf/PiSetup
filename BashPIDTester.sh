@@ -17,4 +17,4 @@ pip install PySide6
 pip install pyserial
 pip install pglive
 
-git clone https://github.com/C-Metcalf/5C-MC-GUI.git
+git clone https://github.com/C-Metcalf/PIDTester.git
