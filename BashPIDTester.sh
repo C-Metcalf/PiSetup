@@ -6,6 +6,8 @@ sudo apt-get autoremove -y
 sudo apt install wtype
 sudo apt-get install can-utils
 
+# Put this bash script on the desktop
+cd ..
 mkdir code 
 cd code
 python -m venv venv 
