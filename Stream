@@ -1,0 +1,7 @@
+setting up a network stream for the raspberry pi
+
+on pi
+libcamera-vid -t 0 --inline --listen -o tcp://0.0.0.0:8554
+
+on pc 
+tcp/h264://192.168.1.90:8554
